@@ -4,7 +4,6 @@ class Show {
 		int g1,g2,g3,g4,g5,g6,g7,g8;
 	public void disp(int b[]) {
 			System.out.println(" | "+b[0] +" | " +b[1] +" | "+b[2]+" | \n" );
-			
 			System.out.println(" | "+b[3] +" | " +b[4]+" | "+b[5]+" | \n");
 			System.out.println(" | "+b[6] +" | " +b[7] +" | "+b[8]+" | \n" );
 			a1=b[0]+b[1]+b[2];
